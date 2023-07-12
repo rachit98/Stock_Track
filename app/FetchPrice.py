@@ -46,4 +46,4 @@ for stocks in stock_symbols:
         writer_object.writerow(data)
         file.close()
 
-print('Fetch Complete.')
+print('Fetch Completed.')
